@@ -144,13 +144,13 @@ muestra informacion asociada al tag
 ### git tag -a v1.5 -m "Esta es la version 1.5"
 crear un tag con conjuntos de cambios:
 tag v1.0
-Tagger: miguel.gutierrez.jariod <miguel.gutierrez.jariod@upcnet.es>
+Tagger: miguel
 Date:   Sat Jul 15 10:53:20 2023 +0200
 
 version 1.0
 
 commit 315f21b406775675b7881dfbaa17ac58d20fe7e5 (HEAD -> ramatest, tag: v1.0)
-Author: miguel.gutierrez.jariod <miguel.gutierrez.jariod@upcnet.es>
+Author: miguel
 Date:   Sat Jul 15 10:22:22 2023 +0200
 
     escenario 9
